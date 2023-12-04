@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hundkennel", "Hundkennel\Hundkennel.csproj", "{CEC8270B-7E72-4711-9DD3-2AE4939076CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC8270B-7E72-4711-9DD3-2AE4939076CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC8270B-7E72-4711-9DD3-2AE4939076CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC8270B-7E72-4711-9DD3-2AE4939076CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC8270B-7E72-4711-9DD3-2AE4939076CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30AE9EC4-212E-46EC-ACAE-2607A6816CCC}
+	EndGlobalSection
+EndGlobal
